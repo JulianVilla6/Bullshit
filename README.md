@@ -1,6 +1,7 @@
 # Bullshit Password Generator
 
-![Preview](url_of_preview_image.png)
+![Preview link]
+(https://bullshitpass.art/)
 
 > Welcome to Bullshit Password Generator! Tired of mundane passwords? So are we! At Bullshit Password Generator, we craft memorable passwords
 > instead of meaningless combinations. Because who doesn't love a good swear word, right?
